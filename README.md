@@ -1,5 +1,12 @@
 # face-recognition
 
+**OBS:**
+* Antes de rodar teste.py, execute pip install -r requirements.txt para instalar os requerimentos. 
+* Eu tive que fazer o download do Visual Studio Community e selecionar Desktop development with C++ porque é necessário ter um compilador de C++ para um dos pacotes. 
+
+
+
+
 
 Baseado em: 
 * https://www.youtube.com/watch?v=sz25xxF_AVE&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
@@ -8,6 +15,4 @@ Baseado em:
             
 
 
-**OBS:**
-* Antes de rodar teste.py, execute pip install -r requirements.txt para instalar os requerimentos. 
-* Eu tive que fazer o download do Visual Studio Community e selecionar Desktop development with C++ porque é necessário ter um compilador de C++ para um dos pacotes. 
+
